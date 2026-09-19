@@ -1,29 +1,29 @@
 # Algorithm_practice
 
 ## Level 1
-|No.|Title|File Name|Date|
-|:---:|:---|:---|:---:|
-|14|StrangeWord|[StrangeWord.py]|2021-8-27|
-|22|SortbyNth|[SortbyNth.py]|2021-9-7|
-|27|Failure|[Failure.py]|2021-9-1|
-|28|Gymclothes|[Gymclothes.py]|2021-9-3|
-|31|DollPick|[DollPick.py]|2021-9-6|
-|32|PressKeypad|[PressKeypad.py]|2021-9-6|
-|33|NumberAlphabet|[NumberAlphabet.py]|2021-9-7|
-|34|NewID|[NewID.py]|2021-9-7|
 
-
-
-[StrangeWord.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/StrangeWord.py
-[SortbyNth.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/SortbyNth.py
-[Failure.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/Failure.py
-[Gymclothes.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/Gymclothes.py
-[DollPick.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/DollPick.py
-[PressKeypad.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/PressKeypad.py
-[NumberAlphabet.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/NumberAlphabet.py
-[NewID.py]:https://github.com/sian94/Algorithm_practice/blob/main/Level1/NewID.py
-
+|Date|No.|Title|문제 출처|
+|:---:|:---|:---|:---|
+|26-09-19||[예산]()|||
+|||[삼총사]()|||
+|||[지폐 접기]()|||
 
 ## Level 2
 |No.|Title|File Name|Date|
 |:---:|:---|:---|:---:|
+
+
+---
+
+## Level 1 (과거)
+
+|Date|No.|Title|문제 출처|
+|:---:|:---|:---|:---|
+|21-08-27|14|[이상한 문자 만들기]()|||
+|21-09-01|27|[실패율]()|2019 KAKAO BLIND RECRUITMENT|
+|21-09-03|28|[체육복]()||
+|21-09-06|31|[크레인 인형뽑기 게임]()|2019 카카오 개발자 겨울 인턴십|
+||32|[키패드 누르기]()|2020 카카오 인턴십|
+|21-09-07|22|[문자열 내 마음대로 정렬하기]()||
+||33|[숫자 문자열과 영단어]()|2021 카카오 채용연계형 인턴십|
+||34|[신규 아이디 추천]()|2021 KAKAO BLIND RECRUITMENT|
